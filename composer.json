@@ -1,5 +1,5 @@
 {
-	"name": "ryanhunt/TelstraSMS",
+	"name": "ryanhunt/telstrasms",
 	"description": "Helper class for using Telstra's public SMS API from dev.telstra.com",
 	"require": {
 	    "php": "^5.3.3 || ^7.0"
