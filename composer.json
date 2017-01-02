@@ -1,0 +1,8 @@
+{
+	"name": "ryanhunt/TelstraSMS",
+	"autoload": {
+		"psr-0" : {
+			"ryanhunt\\TelstraSMS" : "src"
+		}
+	}
+}
